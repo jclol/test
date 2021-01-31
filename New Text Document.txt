@@ -1,3 +1,4 @@
 project1 started
 read data
 summary statistics
+regression
