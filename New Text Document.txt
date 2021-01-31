@@ -2,4 +2,9 @@ project1 started
 read data
 summary statistics
 regression
+
+new dv
+
 change on main
+
+
